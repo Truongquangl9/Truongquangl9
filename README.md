@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Antoine but everyone calls me Tony. I am from Montreal, QC and currently completing my bachelor in computer science at [Concordia University](https://www.concordia.ca/)! I am a full stack web developer that is passionate about creating projects to make our lives easier. I love everything about web applications, automation and cybersecurity! I specialize in [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) web application development.
+I'm Truongquan but everyone calls me Quan. I am from Montreal, QC and currently completing my bachelor in computer science at [Concordia University](https://www.concordia.ca/)! I am a full stack web developer that is passionate about creating projects to make our lives easier. I love everything about web applications, automation and cybersecurity! I specialize in [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) web application development.
 
 <br/>
 
